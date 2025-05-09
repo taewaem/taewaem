@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-https://img.shields.io/badge/JAVA-8A2BE2
+![Static Badge](https://img.shields.io/badge/JAVA)
 
 <!--
 **taewaem/taewaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
