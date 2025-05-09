@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=black"/>
+## I've use 
+<div style=display:flex; flex-direction:row;">
+  <div align=center>
+     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
+    <br>
+  </div>
 
 <!--
 **taewaem/taewaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
